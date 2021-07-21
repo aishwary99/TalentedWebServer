@@ -7,6 +7,7 @@ talented web server is socket programming / network programming available in bui
 * Supports static & dynamic mime type adding for any file format.
 * Supports GET/POST type requests.
 * HTTP/1.1 (version 1.1) support.
+* Parser for Query Strings in requests.
 
 # Test Case
 - Reference : /appOne
